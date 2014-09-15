@@ -6,11 +6,11 @@
 
     <groupId>com.argonio.gora</groupId>
     <artifactId>gora-maven-plugin</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Apache Gora Maven Plugin by Argonio</name>
-    <description>Apache Gora Maven Plugin by Argonio helps to generate Java code from Apache Avro *.json files</description>
+    <description>This Maven plugin helps to generate Java code from Apache Avro *.json files using Apache Gora compiler</description>
     <url>https://github.com/dobromyslov/gora-maven-plugin</url>
     <inceptionYear>2014</inceptionYear>
 
@@ -32,6 +32,13 @@
         <developerConnection>git@github.com:dobromyslov/gora-maven-plugin.git</developerConnection>
         <url>https://github.com/dobromyslov/gora-maven-plugin</url>
     </scm>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
