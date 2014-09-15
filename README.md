@@ -34,6 +34,10 @@ Add to your `pom.xml` the following plugin:
         </plugins>
     </build>
     
+And then run:
+
+    mvn gora:generate
+
 ##Related links
 
 * http://gora.apache.org/current/tutorial.html
