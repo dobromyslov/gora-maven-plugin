@@ -42,3 +42,7 @@ And then run:
 
 * http://gora.apache.org/current/tutorial.html
 * https://issues.apache.org/jira/browse/GORA-277
+
+###License
+
+This work is provided under Apache License version 2.0. See LICENSE.txt for more details.
