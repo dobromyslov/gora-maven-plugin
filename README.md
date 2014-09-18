@@ -25,7 +25,7 @@ Add to your `pom.xml` the following plugin:
             <plugin>
                 <groupId>com.argonio.gora</groupId>
                 <artifactId>gora-maven-plugin</artifactId>
-                <version>0.4-SNAPSHOT</version>
+                <version>0.4</version>
                 <configuration>
                     <sourceDirectory>${basedir}/src/main/avro</sourceDirectory>
                     <outputDirectory>${basedir}/src/main/java</outputDirectory>
