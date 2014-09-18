@@ -45,4 +45,4 @@ And then run:
 
 ###License
 
-This work is provided under Apache License version 2.0. See LICENSE.txt for more details.
+This work is provided under Apache License version 2.0. See LICENSE for more details.
