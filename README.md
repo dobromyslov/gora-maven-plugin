@@ -1,7 +1,7 @@
 #Apache Gora Maven plugin by Argonio
 
 The Gora Maven Plugin is used to generate Java sources from Apache Avro *.json schema descriptors.
-This plugin works with Apache Gora 0.4.
+This plugin works with Apache Gora 0.6-SNAPSHOT.
 
 ##Goals Overview
 
@@ -25,7 +25,7 @@ Add to your `pom.xml` the following plugin:
             <plugin>
                 <groupId>com.argonio.gora</groupId>
                 <artifactId>gora-maven-plugin</artifactId>
-                <version>0.4-SNAPSHOT</version>
+                <version>0.6-SNAPSHOT</version>
                 <configuration>
                     <sourceDirectory>${basedir}/src/main/avro</sourceDirectory>
                     <outputDirectory>${basedir}/src/main/java</outputDirectory>
