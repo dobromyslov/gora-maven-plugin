@@ -19,7 +19,7 @@
 
     <groupId>com.argonio.gora</groupId>
     <artifactId>gora-maven-plugin</artifactId>
-    <version>0.4</version>
+    <version>0.5-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Apache Gora Maven Plugin by Argonio</name>
@@ -85,9 +85,9 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.apache.gora</groupId>
+            <groupId>com.argonio.gora</groupId>
             <artifactId>gora-compiler</artifactId>
-            <version>0.4</version>
+            <version>0.5</version>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
