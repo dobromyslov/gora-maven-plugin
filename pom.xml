@@ -19,7 +19,7 @@
 
     <groupId>com.argonio.gora</groupId>
     <artifactId>gora-maven-plugin</artifactId>
-    <version>0.5-SNAPSHOT</version>
+    <version>0.5</version>
     <packaging>maven-plugin</packaging>
 
     <name>Apache Gora Maven Plugin by Argonio</name>
